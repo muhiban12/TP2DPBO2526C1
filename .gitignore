@@ -1,0 +1,26 @@
+# C++ Compiled Executables & Object Files
+*.exe
+*.o
+*.obj
+*.out
+
+# Java Compiled Bytecode
+*.class
+*.jar
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Specific Files
+.vscode/
+.idea/
+*.swp
+*.swo
